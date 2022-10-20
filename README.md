@@ -8,5 +8,3 @@
 - 📄 Know about my experience [https://spb.hh.ru/resume/6e1cd299ff0983b7bd0039ed1f6a695a344e66](https://spb.hh.ru/resume/6e1cd299ff0983b7bd0039ed1f6a695a344e66)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=DariaGolovanova&show_icons=true&count_private=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaGolovanova)](https://github.com/DariaGolovanova/github-readme-stats)
