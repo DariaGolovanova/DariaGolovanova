@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daria Golovanova</h1>
+<h1 align="center">Hullo, I'm Daria Golovanova</h1>
 <h3 align="center">A passionate designer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DariaGolovanova&label=Profile%20views&color=0e75b6&style=flat" alt="rbetik12" /> </p>
